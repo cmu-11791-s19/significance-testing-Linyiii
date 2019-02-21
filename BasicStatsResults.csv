@@ -1,9 +1,0 @@
-metric,model,mean,median,mode,min,max
-ROUGE-2,Baseline,0.4165537999999999,0.33333,[1.],0.0,1.0
-ROUGE-2,Baseline+Fusion,0.30293080000000006,0.218255,[0.],0.0,1.0
-ROUGE-2,Baseline+Ordering,0.4124338,0.318015,[0.],0.0,1.0
-ROUGE-2,Baseline+Ordering+Fusion,0.2929442,0.207615,[0.],0.0,1.0
-ROUGE-SU4,Baseline,0.4165537999999999,0.33333,[1.],0.0,1.0
-ROUGE-SU4,Baseline+Fusion,0.30293080000000006,0.218255,[0.],0.0,1.0
-ROUGE-SU4,Baseline+Ordering,0.4124338,0.318015,[0.],0.0,1.0
-ROUGE-SU4,Baseline+Ordering+Fusion,0.2929442,0.207615,[0.],0.0,1.0
